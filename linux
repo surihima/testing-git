@@ -1,0 +1,5 @@
+#! /bin/bash
+A=hi 
+B=how are u
+echo $A
+echo $B
